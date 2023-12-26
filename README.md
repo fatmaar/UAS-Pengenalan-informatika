@@ -1,5 +1,3 @@
-![image](https://github.com/fatmaar/UAS-Pengenalan-informatika/assets/144698418/c0b83357-38a1-423a-9cd1-94e3fc612231)# UAS-Pengenalan-informatika
-
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
 [https://ftmrbbnyh.wordpress.com/2023/12/26/computational-thinking/]
 
