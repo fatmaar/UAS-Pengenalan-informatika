@@ -22,6 +22,7 @@ Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 Referensi [1](https://scratch.mit.edu/)
 
 7. ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
+  ![Screenshot 2023-12-26 234439](https://github.com/fatmaar/UAS-Pengenalan-informatika/assets/144698418/a37c2922-b09e-4254-851b-599f3fad8636)
 
 8. ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
 
