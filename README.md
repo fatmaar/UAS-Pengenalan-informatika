@@ -1,4 +1,4 @@
-# UAS-Pengenalan-informatika
+![image](https://github.com/fatmaar/UAS-Pengenalan-informatika/assets/144698418/c0b83357-38a1-423a-9cd1-94e3fc612231)# UAS-Pengenalan-informatika
 
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
 [https://ftmrbbnyh.wordpress.com/2023/12/26/computational-thinking/]
@@ -81,6 +81,7 @@ Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram,
 Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsoft Azure](https://azure.microsoft.com) [Google Cloud Platform](https://cloud.google.com) 
 
 ## Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
+[![Screenshot 2023-12-26 230509](https://github.com/fatmaar/UAS-Pengenalan-informatika/assets/144698418/5633b9fd-37e4-4526-af4d-96e6ff3ec993)]
 
 ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
 
@@ -107,14 +108,17 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ![Screenshot 2023-12-26 223113](https://github.com/fatmaar/UAS-Pengenalan-informatika/assets/144698418/81e4ae0f-ddaf-4b7a-824d-e78e5ce7739a)
 
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
+![MQTT](https://github.com/fatmaar/UAS-Pengenalan-informatika/assets/144698418/6c134dd0-dedd-4666-882d-7d2d1572e699)
 
 ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
 
 ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
 
 ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
+[https://ftmrbbnyh.wordpress.com/2023/12/26/mencari-tau-apa-itu-jurnal-conference-artikel-dan-grade-jurnal/]
 
 ## Eksplorasi Artikel Jurnal / Conference di Repository Terekognisi Internasional (IEEE / Arxiv / Science Direct / ACM /DBLP) [v] ⭐⭐⭐⭐
+![Screenshot 2023-12-26 225005](https://github.com/fatmaar/UAS-Pengenalan-informatika/assets/144698418/2f119011-b055-41c4-84b7-0bca0170d7ac)
 
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 
