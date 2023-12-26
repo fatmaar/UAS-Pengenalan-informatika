@@ -1,8 +1,10 @@
 # UAS-Pengenalan-informatika
 
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
+https://ftmrbbnyh.wordpress.com/2023/12/26/computational-thinking/
 
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
+https://ftmrbbnyh.wordpress.com/2023/12/26/jenis-jenis-mesin-komputasi/
 
 ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
 
@@ -133,6 +135,7 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Membangun Profil Linkedin dan Mengikuti Akun-Akun Inspirasif Bertema Informatika ⭐⭐⭐
 
 ## Membangun Profil Github Page ⭐⭐⭐⭐⭐
+https://github.com/fatmaar
 
 ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 
