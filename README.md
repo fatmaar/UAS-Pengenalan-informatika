@@ -79,6 +79,7 @@ Referensi []
 [![Screenshot 2023-12-26 230509](https://github.com/fatmaar/UAS-Pengenalan-informatika/assets/144698418/5633b9fd-37e4-4526-af4d-96e6ff3ec993)]
 
 25. ## Mendemonstrasikan Akses Konten Multimedia (Image, Audio, Video) ⭐⭐⭐
+[https://ftmrbbnyh.wordpress.com/2023/12/27/cara-mengakses-konten-multimedia-pada-inshot/]
 
 26. ## Mencoba Edit Konten Multimedia (Image, Audio, Video) [v] ⭐⭐
 ![edit video](https://github.com/fatmaar/UAS-Pengenalan-informatika/assets/144698418/79dcd764-516f-48f2-beda-508f458c8cde)
