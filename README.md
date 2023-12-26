@@ -52,11 +52,9 @@ Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
 Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_domain) [2](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
 
 16. ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
+![Screenshot 2023-12-27 001442](https://github.com/fatmaar/UAS-Pengenalan-informatika/assets/144698418/6d2d344a-992c-45ca-bdc3-f9c4d3788ad7)
 
-Referensi tutorial 
-- Isi konten halaman web : [HTML](https://www.w3schools.com/html/)
-- Styling halaman web : [CSS](https://www.w3schools.com/css/)
-- Interaktivitas halaman web : [JavaScript](https://www.w3schools.com/js/)
+![Screenshot 2023-12-27 001718](https://github.com/fatmaar/UAS-Pengenalan-informatika/assets/144698418/91fc6fda-1e3a-4c63-bc7d-f17857158aad)
 
 17. ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
 
