@@ -118,6 +118,7 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
 
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
+[https://ftmrbbnyh.wordpress.com/2023/12/26/di-era-digitalisasi-membuat-prospek-karier-it-semakin-terdepan/]
 
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
 [https://www.duolingo.com/profile/ftmrbbnyh?via=share_profile_link]
