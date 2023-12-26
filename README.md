@@ -1,7 +1,7 @@
 # UAS-Pengenalan-informatika
 
 ## Menjelaskan dan Menginternalisasi Computational Thinking ⭐⭐⭐⭐⭐⭐⭐
-[1](https://ftmrbbnyh.wordpress.com/2023/12/26/computational-thinking/)
+[(https://ftmrbbnyh.wordpress.com/2023/12/26/computational-thinking/)]
 
 ## Menjelaskan Jenis-Jenis Mesin Komputasi ⭐⭐⭐
 [1](https://ftmrbbnyh.wordpress.com/2023/12/26/jenis-jenis-mesin-komputasi/)
