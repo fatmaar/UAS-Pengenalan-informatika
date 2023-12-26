@@ -101,8 +101,10 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Mencoba Data Visualization Dengan Code [v] ⭐⭐
 
 ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
+![Screenshot 2023-12-26 222602](https://github.com/fatmaar/UAS-Pengenalan-informatika/assets/144698418/d2fe4287-c6e5-41b8-8730-6402d0562cbc)
 
 ## Mendaftar dan Mencoba Eksplorasi Kaggle [v] ⭐⭐⭐⭐
+![Screenshot 2023-12-26 223113](https://github.com/fatmaar/UAS-Pengenalan-informatika/assets/144698418/81e4ae0f-ddaf-4b7a-824d-e78e5ce7739a)
 
 ## Mencoba Protokol Komunikasi IoT (MQTT) [v] ⭐
 
