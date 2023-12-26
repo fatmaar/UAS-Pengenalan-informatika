@@ -33,9 +33,7 @@ Referensi [1](https://scratch.mit.edu/)
 ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
 
 ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
-
-Referensi installer [PostgreSQL](https://www.postgresql.org/download/windows/)
-Referensi tambahan [1](https://db-engines.com/en/ranking)
+![Screenshot 2023-12-26 220931](https://github.com/fatmaar/UAS-Pengenalan-informatika/assets/144698418/6434135c-b34a-45ae-acf0-6262aad9fbae)
 
 ## Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
 
