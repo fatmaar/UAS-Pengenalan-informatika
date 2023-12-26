@@ -125,8 +125,10 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
+[https://ftmrbbnyh.wordpress.com/2023/12/26/mengenal-lebih-dekat-tentang-peluang-karier-anak-it/]
 
 ## Eksplorasi Lowongan Freelancer IT (Upwork / Toptal / Freelancer.com) ⭐⭐⭐
+![Screenshot 2023-12-26 172946](https://github.com/fatmaar/UAS-Pengenalan-informatika/assets/144698418/8fadde10-ba34-4c5a-91d2-4b61a30f50c1)
 
 ## Eksplorasi dan Pilih Topik yang Diminati di Roadmap.sh ⭐⭐⭐
 
