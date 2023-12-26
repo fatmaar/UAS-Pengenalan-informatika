@@ -70,11 +70,10 @@ Referensi []
 21. ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
 
 22. ## Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
+[https://ftmrbbnyh.wordpress.com/2023/12/27/mendemonstrasikan-penggunaan-developer-tools-pada-web-browser-firefox/]
 
 23. ## Mengeksplorasi dan Menjelaskan Layanan Cloud Service yang Diminati (GCP / AWS / Azure) [v] ⭐⭐
-Saat ini banyak perusahaan berbasis digital seperti Gojek, Tokopedia, Instagram, Telkom memanfaatkan Cloud Service karena memudahkan untuk mulai pembangunan dan analisis menggunakan infrastruktur digital yang dapat berkembang secara dinamis dengan tarif yang sangat teliti.
-
-Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsoft Azure](https://azure.microsoft.com) [Google Cloud Platform](https://cloud.google.com) 
+[https://ftmrbbnyh.wordpress.com/2023/12/27/mengeksplor-layanan-cloud-service/]
 
 24. ## Mencoba Penggunaan Content Management System (Wordpress) [v] ⭐⭐⭐
 [![Screenshot 2023-12-26 230509](https://github.com/fatmaar/UAS-Pengenalan-informatika/assets/144698418/5633b9fd-37e4-4526-af4d-96e6ff3ec993)]
