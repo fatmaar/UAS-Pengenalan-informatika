@@ -120,8 +120,11 @@ Referensi cloud service: [Amazon Web Service](https://aws.amazon.com/) [Microsof
 ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 
 ## Eksplorasi Tools Untuk Belajar Bahasa Inggris (Duolingo) ⭐⭐⭐
+[https://www.duolingo.com/profile/ftmrbbnyh?via=share_profile_link]
+![duolingo](https://github.com/fatmaar/UAS-Pengenalan-informatika/assets/144698418/e81a3b0c-e763-42df-ba5e-73559afa726f)
 
 ## Eksplorasi Tools Untuk Belajar Berbicara Bahasa Inggris (HelloTalk) ⭐⭐⭐ 
+[https://ftmrbbnyh.wordpress.com/2023/12/26/belajar-berbahasa-inggris-dengan-aplikasi-hellotalk/]
 
 ## Eksplorasi Lowongan Pekerjaan IT ⭐⭐⭐
 [https://ftmrbbnyh.wordpress.com/2023/12/26/mengenal-lebih-dekat-tentang-peluang-karier-anak-it/]
