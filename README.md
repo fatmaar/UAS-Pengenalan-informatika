@@ -66,6 +66,7 @@ Referensi []
 20. ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
 
 21. ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
+[https://ftmrbbnyh.wordpress.com/2023/12/28/ayoo-mencoba-http-request-dan-web-api-menggunakan-postman/]
 
 22. ## Mendemonstrasikan Penggunaan Developer Tools Pada Web Browser (Firefox / Chrome) [v] ⭐⭐⭐⭐⭐
 [https://ftmrbbnyh.wordpress.com/2023/12/27/mendemonstrasikan-penggunaan-developer-tools-pada-web-browser-firefox/]
