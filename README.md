@@ -48,8 +48,7 @@ Referensi [1](https://scratch.mit.edu/)
 [https://ftmrbbnyh.wordpress.com/2023/12/27/mengupas-tuntas-apa-itu-url-uniform-resource-locator/]
 
 15. ## Mencoba Pelacakan Informasi Server dari Alamat Domain [v] ⭐
-
-Referensi terkait: [1](https://en.wikipedia.org/wiki/Country_code_top-level_domain) [2](https://en.wikipedia.org/wiki/List_of_Internet_top-level_domains)
+[https://youtu.be/V2k1FSt5_Pk?si=ExODcij0gMmmk8yB]
 
 16. ## Mencoba Pembuatan Halaman Web Menggunakan HTML, CSS, dan JavaScript [v] ⭐⭐⭐
 ![Screenshot 2023-12-27 001442](https://github.com/fatmaar/UAS-Pengenalan-informatika/assets/144698418/6d2d344a-992c-45ca-bdc3-f9c4d3788ad7)
