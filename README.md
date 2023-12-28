@@ -37,9 +37,7 @@ Referensi [1](https://scratch.mit.edu/)
 ![Screenshot 2023-12-26 220931](https://github.com/fatmaar/UAS-Pengenalan-informatika/assets/144698418/6434135c-b34a-45ae-acf0-6262aad9fbae)
 
 12. ## Mencoba Eksplorasi dan Query Database Menggunakan Database Explorer (Dbeaver / dsb.) [v] ⭐⭐⭐
-
-Referensi installer [Dbeaver](https://dbeaver.io/download/)
-Referensi [1](https://www.w3schools.com/postgresql/postgresql_create_table.php)
+[https://www.youtube.com/watch?v=KM-5rZkZVxs]
 
 13. ## Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
 - Dokumen HyperText Markup Language (HTML) ada untuk memudahkan pertukaran informasi berbasis Hypertext.
