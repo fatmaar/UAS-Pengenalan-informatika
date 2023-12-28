@@ -97,8 +97,10 @@ berikut adalah hasil dari edit video diatas [https://www.instagram.com/reel/CwVS
 31. ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 
 32. ## Mencoba Data Visualization Dengan Tools [v] ⭐⭐
+[https://ftmrbbnyh.wordpress.com/2023/12/28/trying-data-visualization-with-tools-and-code/]
 
 33. ## Mencoba Data Visualization Dengan Code [v] ⭐⭐
+[https://ftmrbbnyh.wordpress.com/2023/12/28/trying-data-visualization-with-tools-and-code/]
 
 34. ## Mendaftar dan Mencoba Eksplorasi HuggingFace [v] ⭐⭐⭐
 ![Screenshot 2023-12-26 222602](https://github.com/fatmaar/UAS-Pengenalan-informatika/assets/144698418/d2fe4287-c6e5-41b8-8730-6402d0562cbc)
