@@ -5,6 +5,7 @@
 [https://ftmrbbnyh.wordpress.com/2023/12/26/jenis-jenis-mesin-komputasi/]
 
 3. ## Mengktifkan dan Mencoba Google Colab [v] ⭐⭐⭐⭐⭐
+[https://drive.google.com/drive/folders/1N4shKxfEJ9JehLuyT_rVz1haqs_VIZvh?usp=drive_link]
 
 4. ## Mencoba Console Sistem Operasi
 
