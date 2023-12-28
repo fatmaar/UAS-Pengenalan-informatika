@@ -20,8 +20,7 @@ Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
 ![flowchart](https://github.com/fatmaar/UAS-Pengenalan-informatika/assets/144698418/5c127781-5124-4852-b2d1-1c3b065e07ac)
 
 6. ## Mencoba Scratch Bahasa Indonesia [v] ⭐⭐⭐⭐⭐⭐⭐
-
-Referensi [1](https://scratch.mit.edu/)
+[https://ftmrbbnyh.wordpress.com/2023/12/28/bermain-sambil-belajar-coding-menggunakan-scratch/]
 
 7. ## Mencoba Algoritma Bubble Sort Menggunakan Java [v] ⭐⭐⭐
   ![Screenshot 2023-12-26 234439](https://github.com/fatmaar/UAS-Pengenalan-informatika/assets/144698418/a37c2922-b09e-4254-851b-599f3fad8636)
