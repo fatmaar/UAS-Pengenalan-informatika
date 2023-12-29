@@ -25,11 +25,13 @@
   ![Screenshot 2023-12-26 234439](https://github.com/fatmaar/UAS-Pengenalan-informatika/assets/144698418/a37c2922-b09e-4254-851b-599f3fad8636)
 
 8. ## Mencoba dan Mendemonstrasikan Penggunakan IDE ⭐⭐
+[https://youtu.be/Pq3DJYX6Fy4?si=uFhL_ZoBJBfzTWDC]
 
 9. ## Mendaftar, Mengeksplorasi, dan Mendemonstrasikan Penggunaan HackerRank [v] ⭐⭐⭐⭐⭐
 ![Screenshot 2023-12-26 213153](https://github.com/fatmaar/UAS-Pengenalan-informatika/assets/144698418/8b4cf6ad-00d8-4304-b5f9-abe86ac14359)
 
 10. ## Mendemonstrasikan Pembuatan Aplikasi / Game Pada Platform : Mobile / Desktop / Web Browser ⭐⭐⭐⭐⭐
+[https://youtu.be/Pq3DJYX6Fy4?si=uFhL_ZoBJBfzTWDC]
 
 11. ## Mencoba Instalasi Database (PostgreSQL / MySQL / dsb.) [v] ⭐⭐⭐
 ![Screenshot 2023-12-26 220931](https://github.com/fatmaar/UAS-Pengenalan-informatika/assets/144698418/6434135c-b34a-45ae-acf0-6262aad9fbae)
@@ -38,9 +40,7 @@
 [https://www.youtube.com/watch?v=KM-5rZkZVxs]
 
 13. ## Mendemonstrasikan dan Menjelaskan Penggunaan Web Browser untuk Mengakses Halaman Website HTML [v] ⭐⭐⭐⭐
-- Dokumen HyperText Markup Language (HTML) ada untuk memudahkan pertukaran informasi berbasis Hypertext.
-- Web Browser seperti Firefox, Chrome, Opera, ada untuk membuka dan mempresentasikan dokumen HTML
-- Dokumen HTML ini bisa bersumber dari web server yang kita ingin datanya (Tokopedia, Wikipedia, Detik.com, dsb.) atau bisa juga dukumen HTML yang kita buat sendiri
+[https://youtu.be/Pq3DJYX6Fy4?si=uFhL_ZoBJBfzTWDC]
 
 14. ## Mendemonstrasikan dan Menjelaskan Komponen Dari Contoh Uniform Resource Locator (URL) [v] ⭐⭐
 [https://ftmrbbnyh.wordpress.com/2023/12/27/mengupas-tuntas-apa-itu-url-uniform-resource-locator/]
@@ -85,6 +85,7 @@ Referensi []
 berikut adalah hasil dari edit video diatas [https://www.instagram.com/reel/CwVSLaPtDJ1/?igsh=YzhvcHBkY3RkNHJ6]
 
 27. ## Mencoba Pembuatan Game dan Simulasi Menggunakan Logo [v] ⭐⭐
+[https://ftmrbbnyh.wordpress.com/2023/12/29/mengenal-lebih-dekat-dengan-net-logo/]
 
 28. ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
 
