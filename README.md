@@ -126,6 +126,7 @@ berikut adalah hasil dari edit video diatas [https://www.instagram.com/reel/CwVS
 ![Screenshot 2023-12-26 225005](https://github.com/fatmaar/UAS-Pengenalan-informatika/assets/144698418/2f119011-b055-41c4-84b7-0bca0170d7ac)
 
 41. ## Menonton Video Presentasi Tugas Akhir Informatika ⭐⭐⭐⭐⭐
+[https://ftmrbbnyh.wordpress.com/2023/12/29/menonton-video-presentasi-tugas-akhir-informatika/]
 
 42. ## Mengeksplorasi Seluruh Profesi Terkait Informatika dan Profesi yang Diminati ⭐⭐⭐⭐
 [https://ftmrbbnyh.wordpress.com/2023/12/26/di-era-digitalisasi-membuat-prospek-karier-it-semakin-terdepan/]
