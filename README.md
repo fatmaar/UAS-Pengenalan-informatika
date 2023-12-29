@@ -62,7 +62,6 @@ Referensi []
 
 19. ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
-
 20. ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
 
 21. ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
@@ -90,9 +89,10 @@ berikut adalah hasil dari edit video diatas [https://www.instagram.com/reel/CwVS
 28. ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
 
 29. ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
+[https://ftmrbbnyh.wordpress.com/2023/12/29/mengenal-dan-memahami-apa-itu-web-tool-ai-discriminative-image-classification-dan-web-tool-ai-generative-text-to-image-text-to-text/]
 
 30. ## Mencoba Web Tool AI Generative (Text to Image, Text to Text) [v] ⭐⭐⭐⭐
-![Screenshot 2023-12-28 220538](https://github.com/fatmaar/UAS-Pengenalan-informatika/assets/144698418/8b34cf88-7967-4c2f-b823-efa27073cc7f)
+[https://ftmrbbnyh.wordpress.com/2023/12/29/mengenal-dan-memahami-apa-itu-web-tool-ai-discriminative-image-classification-dan-web-tool-ai-generative-text-to-image-text-to-text/]
 
 31. ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
 
