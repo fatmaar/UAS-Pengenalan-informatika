@@ -58,6 +58,7 @@
 Referensi []
 
 18. ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
+[https://ftmrbbnyh.wordpress.com/2023/12/29/mengenal-apa-itu-file-json/]
 
 19. ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
 
