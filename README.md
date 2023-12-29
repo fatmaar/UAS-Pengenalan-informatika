@@ -96,6 +96,7 @@ berikut adalah hasil dari edit video diatas [https://www.instagram.com/reel/CwVS
 [https://ftmrbbnyh.wordpress.com/2023/12/29/mengenal-dan-memahami-apa-itu-web-tool-ai-discriminative-image-classification-dan-web-tool-ai-generative-text-to-image-text-to-text/]
 
 31. ## Mencoba Model Machine Learning Menggunakan Google Colab, TTS, Speechrecognition, dan HuggingFace [v] ⭐⭐⭐
+[https://ftmrbbnyh.wordpress.com/2023/12/29/mengeksplor-file-csv-dan-file-big-data-orc-menggunakan-google-colab/]
 
 32. ## Mencoba Data Visualization Dengan Tools [v] ⭐⭐
 [https://ftmrbbnyh.wordpress.com/2023/12/28/trying-data-visualization-with-tools-and-code/]
