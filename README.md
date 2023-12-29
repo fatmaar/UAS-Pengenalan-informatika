@@ -60,8 +60,10 @@
 [https://ftmrbbnyh.wordpress.com/2023/12/29/mengenal-apa-itu-file-json/]
 
 19. ## Mencoba Penggunaan Web Hosting Dengan Untuk Halaman HTML [v] ⭐⭐⭐
+[https://www.youtube.com/watch?v=wgChsLCYo-Q]
 
 20. ## Mencoba Penggunaan Web Hosting Dengan Untuk Web Service [v] ⭐⭐⭐
+[https://www.youtube.com/watch?v=wgChsLCYo-Q]
 
 21. ## Mencoba HTTP Request dan Web API dengan Hoppscotch / Postman [v] ⭐⭐
 [https://ftmrbbnyh.wordpress.com/2023/12/28/ayoo-mencoba-http-request-dan-web-api-menggunakan-postman/]
