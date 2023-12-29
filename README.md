@@ -10,8 +10,7 @@
 4. ## Mencoba Console Sistem Operasi
 
 ### Windows CMD [v] ⭐⭐⭐⭐
-
-Referensi [1](https://www.stationx.net/windows-command-line-cheat-sheet/)
+[https://ftmrbbnyh.wordpress.com/2023/12/29/mengeksplor-console-sistem-operasi/]
 
 ### Linux Terminal Menggunakan Google Colab [v] ⭐⭐⭐⭐
 ![Screenshot 2023-12-28 161458](https://github.com/fatmaar/UAS-Pengenalan-informatika/assets/144698418/c87f0643-4c0b-48b1-9f89-ba4b4ae3a1be)
