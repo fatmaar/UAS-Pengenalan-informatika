@@ -54,8 +54,7 @@
 ![Screenshot 2023-12-27 001718](https://github.com/fatmaar/UAS-Pengenalan-informatika/assets/144698418/91fc6fda-1e3a-4c63-bc7d-f17857158aad)
 
 17. ## Mencoba Penerapan Teknik Search Engine Optimization (SEO) Pada HTML [v] ⭐⭐⭐
-
-Referensi []
+[https://ftmrbbnyh.wordpress.com/]
 
 18. ## Mencoba Pembuatan File JSON [v] ⭐⭐⭐
 [https://ftmrbbnyh.wordpress.com/2023/12/29/mengenal-apa-itu-file-json/]
@@ -88,6 +87,7 @@ berikut adalah hasil dari edit video diatas [https://www.instagram.com/reel/CwVS
 [https://ftmrbbnyh.wordpress.com/2023/12/29/mengenal-lebih-dekat-dengan-net-logo/]
 
 28. ## Mencoba Pemrosesan Konten Multimedia (Image, Audio) Menggunakan Google Colab [v] ⭐⭐⭐
+[https://drive.google.com/drive/folders/1N4shKxfEJ9JehLuyT_rVz1haqs_VIZvh?usp=drive_link]
 
 29. ## Mencoba Web Tool AI Discriminative (Image Classification) [v] ⭐⭐⭐⭐
 [https://ftmrbbnyh.wordpress.com/2023/12/29/mengenal-dan-memahami-apa-itu-web-tool-ai-discriminative-image-classification-dan-web-tool-ai-generative-text-to-image-text-to-text/]
