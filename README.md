@@ -159,4 +159,4 @@ berikut adalah hasil dari edit video diatas [https://www.instagram.com/reel/CwVS
 51. ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
 
 52. ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
-
+[https://ftmrbbnyh.wordpress.com/2023/12/29/membiasakan-literasi-dengan-membaca-buku-buku-novel-yang-berkualitas-dan-memiliki-makna/]
