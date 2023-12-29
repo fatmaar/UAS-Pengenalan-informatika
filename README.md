@@ -113,8 +113,10 @@ berikut adalah hasil dari edit video diatas [https://www.instagram.com/reel/CwVS
 ![MQTT](https://github.com/fatmaar/UAS-Pengenalan-informatika/assets/144698418/6c134dd0-dedd-4666-882d-7d2d1572e699)
 
 37. ## Mencoba Memproses File CSV Menggunakan Google Colab [v] ⭐⭐
+[https://ftmrbbnyh.wordpress.com/2023/12/29/mengeksplor-file-csv-dan-file-big-data-orc-menggunakan-google-colab/]
 
 38. ## Mencoba Memproses File Big Data ORC Menggunakan Google Colab [v] ⭐⭐
+[https://ftmrbbnyh.wordpress.com/2023/12/29/mengeksplor-file-csv-dan-file-big-data-orc-menggunakan-google-colab/]
 
 39. ## Menjelaskan Jurnal, Conference, Artikel, Grade Jurnal [v] ⭐⭐⭐⭐⭐
 [https://ftmrbbnyh.wordpress.com/2023/12/26/mencari-tau-apa-itu-jurnal-conference-artikel-dan-grade-jurnal/]
