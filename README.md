@@ -159,6 +159,7 @@ berikut adalah hasil dari edit video diatas [https://www.instagram.com/reel/CwVS
 [https://github.com/fatmaar]
 
 51. ## Mengikuti Workshop / Event / Course Terkait IT ⭐⭐⭐⭐
+![webinar](https://github.com/fatmaar/UAS-Pengenalan-informatika/assets/144698418/78f8d0ce-9954-4fc0-9c63-ad35d7b17de2)
 
 52. ## Membaca dan Mengambil Inspirasi Dari Buku Bertema Informatika ⭐⭐⭐⭐⭐
 [https://ftmrbbnyh.wordpress.com/2023/12/29/membiasakan-literasi-dengan-membaca-buku-buku-novel-yang-berkualitas-dan-memiliki-makna/]
